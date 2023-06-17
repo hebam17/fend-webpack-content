@@ -1,0 +1,1 @@
+{"version":3,"file":"main.js","mappings":"AAAAA,MAAM","sources":["webpack://example-project/./src/client/index.js"],"sourcesContent":["alert(\"I EXIST\");\r\n"],"names":["alert"],"sourceRoot":""}
